@@ -1,0 +1,24 @@
+{
+  "name": "gacrux-node-intro",
+  "version": "1.0.0",
+  "description": "An Introduction to Express on Node",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaco26/gacrux-node-intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jaco26/gacrux-node-intro/issues"
+  },
+  "homepage": "https://github.com/Jaco26/gacrux-node-intro#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
